@@ -129,7 +129,7 @@
     "serve-static": "1.11.1",
     "strip-function": "0.0.3",
     "sw-toolbox": "3.4.0",
-    "systemjs": "0.19.38",
+    "systemjs": "0.21.6",
     "through2": "2.0.1",
     "ts-node": "3.3.0",
     "tslint": "^5.4.3",
